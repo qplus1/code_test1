@@ -6,5 +6,6 @@ int main() {
     cout << "a = " << a <<endl;
     cout << "&a = " << &a <<endl;
 
+    cout << "ich liebe dish!" << endl;
     return 0;
 }
